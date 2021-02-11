@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://ColinReed.me`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Colin Reed',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Colin Reed | Junior Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Result Focused Junior Developer focusing in Java and Spring`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@colinr1994`,
     // Optional: Github account URL
     github: `https://github.com/ryanfitzgerald`,
     // Optional: LinkedIn account URL
